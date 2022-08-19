@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=blue&style=plastic"  alt="Fourteen98" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=blue&style=plastic"  alt="georonathan47" /> </p> -->
 
 
 <br/>
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-[![Fourteenn98's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fourteen98&custom_title=Fourteen98's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/Fourteen98/)
+[![georonathan47's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fourteen98&custom_title=Fourteen98's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/georonathan47/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fourteen98&theme=react&layout=compact&card_width=1000)](https://github.com/Fourteen98/Fourteen98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fourteen98&theme=react&layout=compact&card_width=1000)](https://github.com/georonathan47/georonathan47)
 
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/georonathan47](https://github.com/georonathan47) 
