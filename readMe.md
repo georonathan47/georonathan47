@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:            [![](https://visitcount.itsvg.in/api?id=georonathan47&icon=0&color=0)](https://visitcount.itsvg.in)
 I am George Osafo-Osei Jonathan. You can call me George.<br>Since 2019, I have been working and collaborating on projects to produce results by solving real world problems.<br>For now, though:<br>🔭 I’m currently working on MyFitta. MyFitta is a service that helps car owners to purchase car parts from their comfort zones.<br>👯 I’m looking to collaborate on any Open Source Flutter project<br>🤝 I’m looking for help with Azure DevOps because -<br>🌱 I’m currently learning Azure DevOps<br>💬 Ask me anything Flutter related<br>⚡ Fun fact: I love to play video games to release stress😂😂
 
 
@@ -25,6 +25,6 @@ I am George Osafo-Osei Jonathan. You can call me George.<br>Since 2019, I have b
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=georonathan47&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
